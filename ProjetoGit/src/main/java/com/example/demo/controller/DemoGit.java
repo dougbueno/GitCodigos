@@ -32,5 +32,15 @@ public class DemoGit {
 	public List<Integer> imprimir() {
 		return service.imprimirTabuada(11);
 	}
+	
+	@GetMapping(path="/adicao")
+	public Integer adicao() {
+		return service.adiciona(11,22);
+	}
+	
+	@GetMapping(path="/divisao")
+	public Integer divisao() {
+		return service.dividir(100,2);
+	}
 
 }

@@ -16,5 +16,10 @@ public class ServiceGit {
 		}
 		return retorno;
 	}
-
+	public Integer adiciona(int numero, int numeroDois) {
+		return numero+numeroDois;
+	}
+	public Integer dividir(int numero, int numeroDois) {
+		return numero/numeroDois;
+	}
 }
