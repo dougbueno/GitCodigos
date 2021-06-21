@@ -18,7 +18,7 @@
 ✔  **Hobbies :**  
 - [📚](https://emojipedia.org/books/) Read 
 - [🔍](https://emojipedia.org/magnifying-glass-tilted-left/) Search
-- [🍔](https://emojipedia.org/hamburger/ Cook
+- [🍔](https://emojipedia.org/hamburger/) Cook
 - [🎧](https://emojipedia.org/headphone/) Music 
 - [⚽](https://emojipedia.org/soccer-ball/) Football
 - [🏎️](https://emojipedia.org/racing-car/) Racing Car
