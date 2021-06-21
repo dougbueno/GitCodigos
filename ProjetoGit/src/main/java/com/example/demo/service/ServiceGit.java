@@ -20,6 +20,6 @@ public class ServiceGit {
 		return numero+numeroDois;
 	}
 	public Integer dividir(int numero, int numeroDois) {
-		return (numero/numeroDois)*3;
+		return numero/numeroDois;
 	}
 }
